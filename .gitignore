@@ -1,0 +1,15 @@
+*.iml
+**/*.rs.bk
+.idea
+
+# macOS stuff
+.DS_Store
+
+# Build results
+artifacts/
+
+# Anything from rls
+contract/rls
+
+# Anything from target
+target/
